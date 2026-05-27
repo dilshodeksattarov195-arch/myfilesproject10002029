@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicevalidate",
+        "uuid": 11853418,
+        "checksum": "muq8x6"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
